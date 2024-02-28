@@ -40,8 +40,6 @@ beschrijving](./media/image2.png)
 -   Maak een Stored Procedure aan in SQL Server om de artikels van een
     opgegeven categorie op te halen.
 
-> // === STORED PROCEDURE ===
-
 ```
 CREATE PROCEDURE\[dbo\].\[ArtikelUitCategorie\]
 	\@CatID smallint
