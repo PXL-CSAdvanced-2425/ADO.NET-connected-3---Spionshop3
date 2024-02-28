@@ -32,7 +32,8 @@ beschrijving](./media/image2.png)
 
 -   ![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
     gegenereerde
-    beschrijving](./media/image3.png)Bij de Load wordt gebruikt gemaakt van
+    beschrijving](./media/image3.png)
+    Bij de Load wordt gebruikt gemaakt van
     de klasse Categorie en de Stored Procedure *ArtikeluitCategorie* om
     de verschillende categorieën uit de database op te halen en in de
     listbox *LstCategorie* toe te voegen.
