@@ -30,14 +30,13 @@ beschrijving](./media/image2.png)
 
 ***Programmeervoorwaarden***
 
--   ![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
-    gegenereerde
-    beschrijving](./media/image3.png)
-    Bij de Load wordt gebruikt gemaakt van
+-   Bij de Load wordt gebruikt gemaakt van
     de klasse Categorie en de Stored Procedure *ArtikeluitCategorie* om
     de verschillende categorieën uit de database op te halen en in de
     listbox *LstCategorie* toe te voegen.
-
+![Afbeelding met tekst, schermopname, Lettertype, nummer Automatisch
+    gegenereerde
+    beschrijving](./media/image3.png)
 -   Maak een Stored Procedure aan in SQL Server om de artikels van een
     opgegeven categorie op te halen.
 
