@@ -43,11 +43,11 @@ beschrijving](./media/image2.png)
     opgegeven categorie op te halen.
 
 ```
-CREATE PROCEDURE\[dbo\].\[ArtikelUitCategorie\]
-	\@CatID smallint
+CREATE PROCEDURE [dbo].[ArtikelUitCategorie]
+	@CatID smallint
 AS
 	SELECT artikel, omschrijving, verkoopprijs
 	FROM artikel
-	WHERE cat_id = \@CatID
+	WHERE cat_id = @CatID
 	ORDER BY artikel
 ```
